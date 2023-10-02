@@ -1,0 +1,19 @@
+D:\TN207\Buoi7\25_BaiTapBuoi7\25_BaiTapBuoi7\bin\Debug\25_BaiTapBuoi7.exe.config
+D:\TN207\Buoi7\25_BaiTapBuoi7\25_BaiTapBuoi7\bin\Debug\25_BaiTapBuoi7.exe
+D:\TN207\Buoi7\25_BaiTapBuoi7\25_BaiTapBuoi7\bin\Debug\25_BaiTapBuoi7.pdb
+D:\TN207\Buoi7\25_BaiTapBuoi7\25_BaiTapBuoi7\obj\Debug\25_BaiTapBuoi7.csprojResolveAssemblyReference.cache
+D:\TN207\Buoi7\25_BaiTapBuoi7\25_BaiTapBuoi7\obj\Debug\_25_BaiTapBuoi7.frmTinhTienThuePhong.resources
+D:\TN207\Buoi7\25_BaiTapBuoi7\25_BaiTapBuoi7\obj\Debug\_25_BaiTapBuoi7.Properties.Resources.resources
+D:\TN207\Buoi7\25_BaiTapBuoi7\25_BaiTapBuoi7\obj\Debug\25_BaiTapBuoi7.csproj.GenerateResource.Cache
+D:\TN207\Buoi7\25_BaiTapBuoi7\25_BaiTapBuoi7\obj\Debug\25_BaiTapBuoi7.exe
+D:\TN207\Buoi7\25_BaiTapBuoi7\25_BaiTapBuoi7\obj\Debug\25_BaiTapBuoi7.pdb
+D:\TN207\Buoi7\25_BaiTapBuoi7 - Bai1\25_BaiTapBuoi7\bin\Debug\25_BaiTapBuoi7.exe.config
+D:\TN207\Buoi7\25_BaiTapBuoi7 - Bai1\25_BaiTapBuoi7\obj\Debug\25_BaiTapBuoi7.exe
+D:\TN207\Buoi7\25_BaiTapBuoi7 - Bai1\25_BaiTapBuoi7\obj\Debug\25_BaiTapBuoi7.pdb
+D:\TN207\Buoi7\25_BaiTapBuoi7 - Bai1\25_BaiTapBuoi7\bin\Debug\25_BaiTapBuoi7.exe
+D:\TN207\Buoi7\25_BaiTapBuoi7 - Bai1\25_BaiTapBuoi7\bin\Debug\25_BaiTapBuoi7.pdb
+D:\TN207\Buoi7\25_BaiTapBuoi7 - Bai1\25_BaiTapBuoi7\obj\Debug\25_BaiTapBuoi7.csprojResolveAssemblyReference.cache
+D:\TN207\Buoi7\25_BaiTapBuoi7 - Bai1\25_BaiTapBuoi7\obj\Debug\_25_BaiTapBuoi7.frmTinhTienThuePhong.resources
+D:\TN207\Buoi7\25_BaiTapBuoi7 - Bai1\25_BaiTapBuoi7\obj\Debug\_25_BaiTapBuoi7.frmMain.resources
+D:\TN207\Buoi7\25_BaiTapBuoi7 - Bai1\25_BaiTapBuoi7\obj\Debug\_25_BaiTapBuoi7.Properties.Resources.resources
+D:\TN207\Buoi7\25_BaiTapBuoi7 - Bai1\25_BaiTapBuoi7\obj\Debug\25_BaiTapBuoi7.csproj.GenerateResource.Cache

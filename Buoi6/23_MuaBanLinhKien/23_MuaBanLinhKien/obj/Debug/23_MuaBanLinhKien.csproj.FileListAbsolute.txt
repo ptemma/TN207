@@ -1,0 +1,9 @@
+D:\TN207\Buoi6\23_MuaBanLinhKien\23_MuaBanLinhKien\bin\Debug\23_MuaBanLinhKien.exe.config
+D:\TN207\Buoi6\23_MuaBanLinhKien\23_MuaBanLinhKien\bin\Debug\23_MuaBanLinhKien.exe
+D:\TN207\Buoi6\23_MuaBanLinhKien\23_MuaBanLinhKien\bin\Debug\23_MuaBanLinhKien.pdb
+D:\TN207\Buoi6\23_MuaBanLinhKien\23_MuaBanLinhKien\obj\Debug\_23_MuaBanLinhKien.frmMuaBanLinhKien.resources
+D:\TN207\Buoi6\23_MuaBanLinhKien\23_MuaBanLinhKien\obj\Debug\_23_MuaBanLinhKien.Properties.Resources.resources
+D:\TN207\Buoi6\23_MuaBanLinhKien\23_MuaBanLinhKien\obj\Debug\23_MuaBanLinhKien.csproj.GenerateResource.Cache
+D:\TN207\Buoi6\23_MuaBanLinhKien\23_MuaBanLinhKien\obj\Debug\23_MuaBanLinhKien.exe
+D:\TN207\Buoi6\23_MuaBanLinhKien\23_MuaBanLinhKien\obj\Debug\23_MuaBanLinhKien.pdb
+D:\TN207\Buoi6\23_MuaBanLinhKien\23_MuaBanLinhKien\obj\Debug\23_MuaBanLinhKien.csprojResolveAssemblyReference.cache

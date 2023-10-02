@@ -1,0 +1,6 @@
+D:\TN207\buoi2\07_TinhTong\07_TinhTong\bin\Debug\07_TinhTong.exe.config
+D:\TN207\buoi2\07_TinhTong\07_TinhTong\bin\Debug\07_TinhTong.exe
+D:\TN207\buoi2\07_TinhTong\07_TinhTong\bin\Debug\07_TinhTong.pdb
+D:\TN207\buoi2\07_TinhTong\07_TinhTong\obj\Debug\07_TinhTong.exe
+D:\TN207\buoi2\07_TinhTong\07_TinhTong\obj\Debug\07_TinhTong.pdb
+D:\TN207\buoi2\07_TinhTong\07_TinhTong\obj\Debug\07_TinhTong.csprojResolveAssemblyReference.cache

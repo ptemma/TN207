@@ -1,0 +1,6 @@
+D:\TN207\Buoi3\14_ChuongTrinhCon\14_ChuongTrinhCon\bin\Debug\14_ChuongTrinhCon.exe.config
+D:\TN207\Buoi3\14_ChuongTrinhCon\14_ChuongTrinhCon\bin\Debug\14_ChuongTrinhCon.exe
+D:\TN207\Buoi3\14_ChuongTrinhCon\14_ChuongTrinhCon\bin\Debug\14_ChuongTrinhCon.pdb
+D:\TN207\Buoi3\14_ChuongTrinhCon\14_ChuongTrinhCon\obj\Debug\14_ChuongTrinhCon.csprojResolveAssemblyReference.cache
+D:\TN207\Buoi3\14_ChuongTrinhCon\14_ChuongTrinhCon\obj\Debug\14_ChuongTrinhCon.exe
+D:\TN207\Buoi3\14_ChuongTrinhCon\14_ChuongTrinhCon\obj\Debug\14_ChuongTrinhCon.pdb

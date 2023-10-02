@@ -1,0 +1,10 @@
+c:\users\admin\onedrive\documents\visual studio 2012\Projects\02_helloWorld\02_helloWorld\bin\Debug\02_helloWorld.exe.config
+D:\TN207\02_helloWorld\02_helloWorld\bin\Debug\02_helloWorld.exe.config
+D:\TN207\02_helloWorld\02_helloWorld\bin\Debug\02_helloWorld.exe
+D:\TN207\02_helloWorld\02_helloWorld\bin\Debug\02_helloWorld.pdb
+D:\TN207\02_helloWorld\02_helloWorld\obj\Debug\02_helloWorld.csprojResolveAssemblyReference.cache
+D:\TN207\02_helloWorld\02_helloWorld\obj\Debug\_02_helloWorld.Form1.resources
+D:\TN207\02_helloWorld\02_helloWorld\obj\Debug\_02_helloWorld.Properties.Resources.resources
+D:\TN207\02_helloWorld\02_helloWorld\obj\Debug\02_helloWorld.csproj.GenerateResource.Cache
+D:\TN207\02_helloWorld\02_helloWorld\obj\Debug\02_helloWorld.exe
+D:\TN207\02_helloWorld\02_helloWorld\obj\Debug\02_helloWorld.pdb

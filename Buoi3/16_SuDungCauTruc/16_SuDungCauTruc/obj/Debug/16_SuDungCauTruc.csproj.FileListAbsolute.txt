@@ -1,0 +1,6 @@
+D:\TN207\Buoi3\16_SuDungCauTruc\16_SuDungCauTruc\bin\Debug\16_SuDungCauTruc.exe.config
+D:\TN207\Buoi3\16_SuDungCauTruc\16_SuDungCauTruc\bin\Debug\16_SuDungCauTruc.exe
+D:\TN207\Buoi3\16_SuDungCauTruc\16_SuDungCauTruc\bin\Debug\16_SuDungCauTruc.pdb
+D:\TN207\Buoi3\16_SuDungCauTruc\16_SuDungCauTruc\obj\Debug\16_SuDungCauTruc.csprojResolveAssemblyReference.cache
+D:\TN207\Buoi3\16_SuDungCauTruc\16_SuDungCauTruc\obj\Debug\16_SuDungCauTruc.exe
+D:\TN207\Buoi3\16_SuDungCauTruc\16_SuDungCauTruc\obj\Debug\16_SuDungCauTruc.pdb

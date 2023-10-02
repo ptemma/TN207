@@ -1,0 +1,6 @@
+D:\TN207\buoi2\09_XuLyChuoi\09_XuLyChuoi\bin\Debug\09_XuLyChuoi.exe.config
+D:\TN207\buoi2\09_XuLyChuoi\09_XuLyChuoi\bin\Debug\09_XuLyChuoi.exe
+D:\TN207\buoi2\09_XuLyChuoi\09_XuLyChuoi\bin\Debug\09_XuLyChuoi.pdb
+D:\TN207\buoi2\09_XuLyChuoi\09_XuLyChuoi\obj\Debug\09_XuLyChuoi.csprojResolveAssemblyReference.cache
+D:\TN207\buoi2\09_XuLyChuoi\09_XuLyChuoi\obj\Debug\09_XuLyChuoi.exe
+D:\TN207\buoi2\09_XuLyChuoi\09_XuLyChuoi\obj\Debug\09_XuLyChuoi.pdb

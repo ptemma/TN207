@@ -1,0 +1,8 @@
+D:\TN207\Buoi6\22_DinhDangVanBan\22_DinhDangVanBan\bin\Debug\22_DinhDangVanBan.exe.config
+D:\TN207\Buoi6\22_DinhDangVanBan\22_DinhDangVanBan\bin\Debug\22_DinhDangVanBan.exe
+D:\TN207\Buoi6\22_DinhDangVanBan\22_DinhDangVanBan\bin\Debug\22_DinhDangVanBan.pdb
+D:\TN207\Buoi6\22_DinhDangVanBan\22_DinhDangVanBan\obj\Debug\_22_DinhDangVanBan.frmDDVB.resources
+D:\TN207\Buoi6\22_DinhDangVanBan\22_DinhDangVanBan\obj\Debug\_22_DinhDangVanBan.Properties.Resources.resources
+D:\TN207\Buoi6\22_DinhDangVanBan\22_DinhDangVanBan\obj\Debug\22_DinhDangVanBan.csproj.GenerateResource.Cache
+D:\TN207\Buoi6\22_DinhDangVanBan\22_DinhDangVanBan\obj\Debug\22_DinhDangVanBan.exe
+D:\TN207\Buoi6\22_DinhDangVanBan\22_DinhDangVanBan\obj\Debug\22_DinhDangVanBan.pdb

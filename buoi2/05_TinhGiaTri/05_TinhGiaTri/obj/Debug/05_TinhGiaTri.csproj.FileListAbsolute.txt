@@ -1,0 +1,12 @@
+c:\users\admin\onedrive\documents\visual studio 2012\Projects\05_TinhGiaTri\05_TinhGiaTri\bin\Debug\05_TinhGiaTri.exe.config
+c:\users\admin\onedrive\documents\visual studio 2012\Projects\05_TinhGiaTri\05_TinhGiaTri\bin\Debug\05_TinhGiaTri.exe
+c:\users\admin\onedrive\documents\visual studio 2012\Projects\05_TinhGiaTri\05_TinhGiaTri\bin\Debug\05_TinhGiaTri.pdb
+c:\users\admin\onedrive\documents\visual studio 2012\Projects\05_TinhGiaTri\05_TinhGiaTri\obj\Debug\05_TinhGiaTri.csprojResolveAssemblyReference.cache
+c:\users\admin\onedrive\documents\visual studio 2012\Projects\05_TinhGiaTri\05_TinhGiaTri\obj\Debug\05_TinhGiaTri.exe
+c:\users\admin\onedrive\documents\visual studio 2012\Projects\05_TinhGiaTri\05_TinhGiaTri\obj\Debug\05_TinhGiaTri.pdb
+D:\TN207\buoi2\05_TinhGiaTri\05_TinhGiaTri\bin\Debug\05_TinhGiaTri.exe.config
+D:\TN207\buoi2\05_TinhGiaTri\05_TinhGiaTri\obj\Debug\05_TinhGiaTri.exe
+D:\TN207\buoi2\05_TinhGiaTri\05_TinhGiaTri\obj\Debug\05_TinhGiaTri.pdb
+D:\TN207\buoi2\05_TinhGiaTri\05_TinhGiaTri\bin\Debug\05_TinhGiaTri.exe
+D:\TN207\buoi2\05_TinhGiaTri\05_TinhGiaTri\bin\Debug\05_TinhGiaTri.pdb
+D:\TN207\buoi2\05_TinhGiaTri\05_TinhGiaTri\obj\Debug\05_TinhGiaTri.csprojResolveAssemblyReference.cache

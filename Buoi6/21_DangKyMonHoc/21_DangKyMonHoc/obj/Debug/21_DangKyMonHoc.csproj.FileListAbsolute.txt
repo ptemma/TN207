@@ -1,0 +1,9 @@
+D:\TN207\Buoi6\21_DangKyMonHoc\21_DangKyMonHoc\bin\Debug\21_DangKyMonHoc.exe.config
+D:\TN207\Buoi6\21_DangKyMonHoc\21_DangKyMonHoc\bin\Debug\21_DangKyMonHoc.exe
+D:\TN207\Buoi6\21_DangKyMonHoc\21_DangKyMonHoc\bin\Debug\21_DangKyMonHoc.pdb
+D:\TN207\Buoi6\21_DangKyMonHoc\21_DangKyMonHoc\obj\Debug\21_DangKyMonHoc.csprojResolveAssemblyReference.cache
+D:\TN207\Buoi6\21_DangKyMonHoc\21_DangKyMonHoc\obj\Debug\_21_DangKyMonHoc.frmDKMonHoc.resources
+D:\TN207\Buoi6\21_DangKyMonHoc\21_DangKyMonHoc\obj\Debug\_21_DangKyMonHoc.Properties.Resources.resources
+D:\TN207\Buoi6\21_DangKyMonHoc\21_DangKyMonHoc\obj\Debug\21_DangKyMonHoc.csproj.GenerateResource.Cache
+D:\TN207\Buoi6\21_DangKyMonHoc\21_DangKyMonHoc\obj\Debug\21_DangKyMonHoc.exe
+D:\TN207\Buoi6\21_DangKyMonHoc\21_DangKyMonHoc\obj\Debug\21_DangKyMonHoc.pdb

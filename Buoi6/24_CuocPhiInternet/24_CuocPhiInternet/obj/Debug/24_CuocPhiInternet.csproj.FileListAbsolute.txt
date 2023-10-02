@@ -1,0 +1,9 @@
+D:\TN207\Buoi6\24_CuocPhiInternet\24_CuocPhiInternet\bin\Debug\24_CuocPhiInternet.exe.config
+D:\TN207\Buoi6\24_CuocPhiInternet\24_CuocPhiInternet\obj\Debug\24_CuocPhiInternet.csprojResolveAssemblyReference.cache
+D:\TN207\Buoi6\24_CuocPhiInternet\24_CuocPhiInternet\obj\Debug\_24_CuocPhiInternet.frmQLCuocPhiInternet.resources
+D:\TN207\Buoi6\24_CuocPhiInternet\24_CuocPhiInternet\obj\Debug\_24_CuocPhiInternet.Properties.Resources.resources
+D:\TN207\Buoi6\24_CuocPhiInternet\24_CuocPhiInternet\obj\Debug\24_CuocPhiInternet.csproj.GenerateResource.Cache
+D:\TN207\Buoi6\24_CuocPhiInternet\24_CuocPhiInternet\bin\Debug\24_CuocPhiInternet.exe
+D:\TN207\Buoi6\24_CuocPhiInternet\24_CuocPhiInternet\bin\Debug\24_CuocPhiInternet.pdb
+D:\TN207\Buoi6\24_CuocPhiInternet\24_CuocPhiInternet\obj\Debug\24_CuocPhiInternet.exe
+D:\TN207\Buoi6\24_CuocPhiInternet\24_CuocPhiInternet\obj\Debug\24_CuocPhiInternet.pdb

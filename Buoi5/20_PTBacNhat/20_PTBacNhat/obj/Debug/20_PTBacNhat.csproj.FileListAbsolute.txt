@@ -1,0 +1,9 @@
+D:\TN207\Buoi5\20_PTBacNhat\20_PTBacNhat\bin\Debug\20_PTBacNhat.exe.config
+D:\TN207\Buoi5\20_PTBacNhat\20_PTBacNhat\bin\Debug\20_PTBacNhat.exe
+D:\TN207\Buoi5\20_PTBacNhat\20_PTBacNhat\bin\Debug\20_PTBacNhat.pdb
+D:\TN207\Buoi5\20_PTBacNhat\20_PTBacNhat\obj\Debug\20_PTBacNhat.csprojResolveAssemblyReference.cache
+D:\TN207\Buoi5\20_PTBacNhat\20_PTBacNhat\obj\Debug\_20_PTBacNhat.frmGiaiPTBacNhat.resources
+D:\TN207\Buoi5\20_PTBacNhat\20_PTBacNhat\obj\Debug\_20_PTBacNhat.Properties.Resources.resources
+D:\TN207\Buoi5\20_PTBacNhat\20_PTBacNhat\obj\Debug\20_PTBacNhat.csproj.GenerateResource.Cache
+D:\TN207\Buoi5\20_PTBacNhat\20_PTBacNhat\obj\Debug\20_PTBacNhat.exe
+D:\TN207\Buoi5\20_PTBacNhat\20_PTBacNhat\obj\Debug\20_PTBacNhat.pdb

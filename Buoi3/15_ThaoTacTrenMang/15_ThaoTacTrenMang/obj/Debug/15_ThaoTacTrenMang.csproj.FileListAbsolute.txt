@@ -1,0 +1,6 @@
+D:\TN207\Buoi3\15_ThaoTacTrenMang\15_ThaoTacTrenMang\bin\Debug\15_ThaoTacTrenMang.exe.config
+D:\TN207\Buoi3\15_ThaoTacTrenMang\15_ThaoTacTrenMang\bin\Debug\15_ThaoTacTrenMang.exe
+D:\TN207\Buoi3\15_ThaoTacTrenMang\15_ThaoTacTrenMang\bin\Debug\15_ThaoTacTrenMang.pdb
+D:\TN207\Buoi3\15_ThaoTacTrenMang\15_ThaoTacTrenMang\obj\Debug\15_ThaoTacTrenMang.csprojResolveAssemblyReference.cache
+D:\TN207\Buoi3\15_ThaoTacTrenMang\15_ThaoTacTrenMang\obj\Debug\15_ThaoTacTrenMang.exe
+D:\TN207\Buoi3\15_ThaoTacTrenMang\15_ThaoTacTrenMang\obj\Debug\15_ThaoTacTrenMang.pdb
