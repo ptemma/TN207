@@ -1,0 +1,9 @@
+D:\TN207\Buoi8\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.exe.config
+D:\TN207\Buoi8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csprojResolveAssemblyReference.cache
+D:\TN207\Buoi8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.frmMain.resources
+D:\TN207\Buoi8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.Properties.Resources.resources
+D:\TN207\Buoi8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.GenerateResource.Cache
+D:\TN207\Buoi8\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.exe
+D:\TN207\Buoi8\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.pdb
+D:\TN207\Buoi8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.exe
+D:\TN207\Buoi8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.pdb

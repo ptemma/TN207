@@ -1,0 +1,8 @@
+D:\TN207\Buoi8\QL_VuiCungHugo\QL_VuiCungHugo\bin\Debug\QL_VuiCungHugo.exe.config
+D:\TN207\Buoi8\QL_VuiCungHugo\QL_VuiCungHugo\bin\Debug\QL_VuiCungHugo.exe
+D:\TN207\Buoi8\QL_VuiCungHugo\QL_VuiCungHugo\bin\Debug\QL_VuiCungHugo.pdb
+D:\TN207\Buoi8\QL_VuiCungHugo\QL_VuiCungHugo\obj\Debug\QL_VuiCungHugo.frmMain.resources
+D:\TN207\Buoi8\QL_VuiCungHugo\QL_VuiCungHugo\obj\Debug\QL_VuiCungHugo.Properties.Resources.resources
+D:\TN207\Buoi8\QL_VuiCungHugo\QL_VuiCungHugo\obj\Debug\QL_VuiCungHugo.csproj.GenerateResource.Cache
+D:\TN207\Buoi8\QL_VuiCungHugo\QL_VuiCungHugo\obj\Debug\QL_VuiCungHugo.exe
+D:\TN207\Buoi8\QL_VuiCungHugo\QL_VuiCungHugo\obj\Debug\QL_VuiCungHugo.pdb
