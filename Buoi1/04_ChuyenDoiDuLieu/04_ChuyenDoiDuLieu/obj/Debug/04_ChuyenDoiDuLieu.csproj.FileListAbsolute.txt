@@ -1,8 +1,0 @@
-c:\users\admin\onedrive\documents\visual studio 2012\Projects\04_ChuyenDoiDuLieu\04_ChuyenDoiDuLieu\bin\Debug\04_ChuyenDoiDuLieu.exe.config
-c:\users\admin\onedrive\documents\visual studio 2012\Projects\04_ChuyenDoiDuLieu\04_ChuyenDoiDuLieu\bin\Debug\04_ChuyenDoiDuLieu.exe
-c:\users\admin\onedrive\documents\visual studio 2012\Projects\04_ChuyenDoiDuLieu\04_ChuyenDoiDuLieu\bin\Debug\04_ChuyenDoiDuLieu.pdb
-c:\users\admin\onedrive\documents\visual studio 2012\Projects\04_ChuyenDoiDuLieu\04_ChuyenDoiDuLieu\obj\Debug\04_ChuyenDoiDuLieu.exe
-c:\users\admin\onedrive\documents\visual studio 2012\Projects\04_ChuyenDoiDuLieu\04_ChuyenDoiDuLieu\obj\Debug\04_ChuyenDoiDuLieu.pdb
-D:\TN207\04_ChuyenDoiDuLieu\04_ChuyenDoiDuLieu\bin\Debug\04_ChuyenDoiDuLieu.exe.config
-D:\TN207\04_ChuyenDoiDuLieu\04_ChuyenDoiDuLieu\obj\Debug\04_ChuyenDoiDuLieu.exe
-D:\TN207\04_ChuyenDoiDuLieu\04_ChuyenDoiDuLieu\obj\Debug\04_ChuyenDoiDuLieu.pdb

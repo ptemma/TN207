@@ -1,0 +1,23 @@
+D:\OnTapTN207\OnTapTN207\bin\Debug\OnTapTN207.exe.config
+G:\TN207\Thi cuoi ky\92_2022\OnTapTN207\OnTapTN207\bin\Debug\OnTapTN207.exe.config
+G:\TN207\Thi cuoi ky\92_2022\OnTapTN207\OnTapTN207\bin\Debug\OnTapTN207.exe
+G:\TN207\Thi cuoi ky\92_2022\OnTapTN207\OnTapTN207\bin\Debug\OnTapTN207.pdb
+G:\TN207\Thi cuoi ky\92_2022\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.frmDangNhap.resources
+G:\TN207\Thi cuoi ky\92_2022\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.frmMain.resources
+G:\TN207\Thi cuoi ky\92_2022\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.Properties.Resources.resources
+G:\TN207\Thi cuoi ky\92_2022\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.csproj.GenerateResource.cache
+G:\TN207\Thi cuoi ky\92_2022\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.csproj.CoreCompileInputs.cache
+G:\TN207\Thi cuoi ky\92_2022\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.exe
+G:\TN207\Thi cuoi ky\92_2022\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.pdb
+D:\TN207\OnTapTN207\OnTapTN207\bin\Debug\OnTapTN207.exe.config
+D:\TN207\OnTapTN207\OnTapTN207\bin\Debug\OnTapTN207.exe
+D:\TN207\OnTapTN207\OnTapTN207\bin\Debug\OnTapTN207.pdb
+D:\TN207\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.csproj.AssemblyReference.cache
+D:\TN207\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.frmDangNhap.resources
+D:\TN207\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.frmMain.resources
+D:\TN207\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.Properties.Resources.resources
+D:\TN207\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.csproj.GenerateResource.cache
+D:\TN207\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.csproj.CoreCompileInputs.cache
+D:\TN207\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.exe
+D:\TN207\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.pdb
+D:\TN207\OnTapTN207\OnTapTN207\obj\Debug\OnTapTN207.frmCanBo.resources

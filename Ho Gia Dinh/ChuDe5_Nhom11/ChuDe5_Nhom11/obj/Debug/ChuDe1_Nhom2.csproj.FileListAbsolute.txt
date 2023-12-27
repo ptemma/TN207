@@ -1,0 +1,106 @@
+D:\I code C#\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.exe.config
+D:\I code C#\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.exe
+D:\I code C#\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.pdb
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.AssemblyReference.cache
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.Form1.resources
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmDangNhap.resources
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmDoiMatKhau.resources
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmLop_01.resources
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmMain.resources
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmNguoiSD.resources
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTheoDoiBaiThi.resources
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.Properties.Resources.resources
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.GenerateResource.cache
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.CoreCompileInputs.cache
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.exe
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.pdb
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmGioiThieu.resources
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTimKiemBaiThi.resources
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmMonHoc.resources
+D:\I code C#\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTrungTam.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.exe.config
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.exe
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.pdb
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.AssemblyReference.cache
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.Form1.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmMonHoc.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTimKiemBaiThi.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmDangNhap.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmDoiMatKhau.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmGioiThieu.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmLop_01.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmMain.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmNguoiSD.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTheoDoiBaiThi.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTrungTam.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.Properties.Resources.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.GenerateResource.cache
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.CoreCompileInputs.cache
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.exe
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.pdb
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\ChuDe1_Nhom2\obj\Debug\BTDuAn_QL_BaiThi.frmLopTheoTrungTam.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.exe.config
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.exe
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.pdb
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.Form1.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\BTDuAn_QL_BaiThi.frmLopTheoTrungTam.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmMonHoc.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTimKiemBaiThi.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmDangNhap.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmDoiMatKhau.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmGioiThieu.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmLop_01.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmMain.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmNguoiSD.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTheoDoiBaiThi.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTrungTam.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.exe
+C:\Users\ADMIN\Downloads\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.pdb
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.exe.config
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.exe
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.pdb
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.AssemblyReference.cache
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\BTDuAn_QL_BaiThi.frmLopTheoTrungTam.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmMonHoc.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmDangNhap.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmDoiMatKhau.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmGioiThieu.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmLop_01.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmMain.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmNguoiSD.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTheoDoiBaiThi.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTimKiemBaiThi.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTrungTam.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.Properties.Resources.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.GenerateResource.cache
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.CoreCompileInputs.cache
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.exe
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.pdb
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmHuongDanSuDung.resources
+D:\Học kỳ I năm 3\TN207 .NET\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmLienHe.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.exe.config
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.exe
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\bin\Debug\ChuDe1_Nhom2.pdb
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.AssemblyReference.cache
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmHuongDanSuDung.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmLienHe.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\BTDuAn_QL_BaiThi.frmLopTheoTrungTam.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmMonHoc.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmDangNhap.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmDoiMatKhau.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmGioiThieu.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmLop_01.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmMain.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmNguoiSD.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTheoDoiBaiThi.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTimKiemBaiThi.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.frmTrungTam.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.Properties.Resources.resources
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.GenerateResource.cache
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.csproj.CoreCompileInputs.cache
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.exe
+D:\THUD\HK1 2022-2023\.NET_TN207\ChuDe1_Nhom2\obj\Debug\ChuDe1_Nhom2.pdb

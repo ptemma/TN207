@@ -1,8 +1,0 @@
-c:\users\admin\onedrive\documents\visual studio 2012\Projects\03_NhapXuatDuLieu\03_NhapXuatDuLieu\bin\Debug\03_NhapXuatDuLieu.exe.config
-c:\users\admin\onedrive\documents\visual studio 2012\Projects\03_NhapXuatDuLieu\03_NhapXuatDuLieu\bin\Debug\03_NhapXuatDuLieu.exe
-c:\users\admin\onedrive\documents\visual studio 2012\Projects\03_NhapXuatDuLieu\03_NhapXuatDuLieu\bin\Debug\03_NhapXuatDuLieu.pdb
-c:\users\admin\onedrive\documents\visual studio 2012\Projects\03_NhapXuatDuLieu\03_NhapXuatDuLieu\obj\Debug\03_NhapXuatDuLieu.exe
-c:\users\admin\onedrive\documents\visual studio 2012\Projects\03_NhapXuatDuLieu\03_NhapXuatDuLieu\obj\Debug\03_NhapXuatDuLieu.pdb
-D:\TN207\03_NhapXuatDuLieu\03_NhapXuatDuLieu\bin\Debug\03_NhapXuatDuLieu.exe.config
-D:\TN207\03_NhapXuatDuLieu\03_NhapXuatDuLieu\obj\Debug\03_NhapXuatDuLieu.exe
-D:\TN207\03_NhapXuatDuLieu\03_NhapXuatDuLieu\obj\Debug\03_NhapXuatDuLieu.pdb

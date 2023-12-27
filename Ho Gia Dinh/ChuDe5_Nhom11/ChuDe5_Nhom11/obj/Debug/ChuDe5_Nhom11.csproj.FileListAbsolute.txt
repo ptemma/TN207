@@ -1,0 +1,163 @@
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmHuongDanSuDung.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmLienHe.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\BTDuAn_QL_BaiThi.frmLopTheoTrungTam.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmMonHoc.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmDangNhap.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmDoiMatKhau.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmGioiThieu.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmLop_01.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmMain.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmNguoiSD.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmTheoDoiBaiThi.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmTimKiemBaiThi.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.frmTrungTam.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.Properties.Resources.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.csproj.GenerateResource.cache
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.csproj.CoreCompileInputs.cache
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\bin\Debug\ChuDe5_Nhom11.exe.config
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\bin\Debug\ChuDe5_Nhom11.exe
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\bin\Debug\ChuDe5_Nhom11.pdb
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.exe
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe1_Nhom2\obj\Debug\ChuDe5_Nhom11.pdb
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe.config
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.pdb
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.AssemblyReference.cache
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHuongDanSuDung.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmLienHe.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\BTDuAn_QL_BaiThi.frmLopTheoTrungTam.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmMonHoc.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDangNhap.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDoiMatKhau.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmGioiThieu.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmLop_01.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmMain.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmNguoiSD.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTheoDoiBaiThi.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTimKiemBaiThi.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTrungTam.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.Properties.Resources.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.GenerateResource.cache
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.CoreCompileInputs.cache
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.exe
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.pdb
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.AssemblyReference.cache
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHuongDanSuDung.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmLienHe.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\BTDuAn_QL_BaiThi.frmLopTheoTrungTam.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmMonHoc.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDangNhap.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDoiMatKhau.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmGioiThieu.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmLop_01.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmMain.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmNguoiSD.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTheoDoiBaiThi.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTimKiemBaiThi.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTrungTam.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.Properties.Resources.resources
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.GenerateResource.cache
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.CoreCompileInputs.cache
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.exe
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.pdb
+D:\TN207\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmLopTheoTrungTam.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHuongDanSuDung.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmLienHe.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\BTDuAn_QL_BaiThi.frmLopTheoTrungTam.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmMonHoc.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDangNhap.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDoiMatKhau.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmGioiThieu.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmLop_01.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmMain.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmNguoiSD.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTheoDoiBaiThi.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTimKiemBaiThi.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTrungTam.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.Properties.Resources.resources
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.GenerateResource.cache
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.CoreCompileInputs.cache
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe.config
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.pdb
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.exe
+D:\My Project\.NETWinForm\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.pdb
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe.config
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.pdb
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.AssemblyReference.cache
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHuongDanSuDung.resources
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmLienHe.resources
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDangNhap.resources
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDoiMatKhau.resources
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmGioiThieu.resources
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmMain.resources
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.Properties.Resources.resources
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.GenerateResource.cache
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.CoreCompileInputs.cache
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.exe
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.pdb
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe.config
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.pdb
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHuongDanSuDung.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmLienHe.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDangNhap.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDoiMatKhau.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmGioiThieu.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmMain.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.Properties.Resources.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.GenerateResource.cache
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.CoreCompileInputs.cache
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.exe
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.pdb
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.AssemblyReference.cache
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmKhomAp.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHoGiaDinh.resources
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmKhomAp.resources
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmNgheNghiep.resources
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTrinhDo.resources
+D:\TN207\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDoiTuong.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe.config
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.pdb
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDoiTuong.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHuongDanSuDung.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmKhomAp.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmLienHe.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDangNhap.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDoiMatKhau.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmGioiThieu.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmMain.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmNgheNghiep.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTrinhDo.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.Properties.Resources.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.GenerateResource.cache
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.CoreCompileInputs.cache
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.exe
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.pdb
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHoGiaDinh.resources
+D:\THUD\HK1 2023 - 2024\TN207-LTNET\ChuDe5_Nhom11 (1)\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHoGiaDinhTheoKhomAp.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe.config
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.exe
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.pdb
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.exe
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\bin\Debug\ChuDe5_Nhom11.pdb
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.AssemblyReference.cache
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDoiTuong.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHoGiaDinh.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHoGiaDinhTheoKhomAp.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmHuongDanSuDung.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmKhomAp.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmLienHe.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDangNhap.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmDoiMatKhau.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmGioiThieu.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmMain.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmNgheNghiep.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTrinhDo.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.Properties.Resources.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.GenerateResource.cache
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.csproj.CoreCompileInputs.cache
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmThanhViencs.resources
+D:\TN207\Ho Gia Dinh\ChuDe5_Nhom11\ChuDe5_Nhom11\obj\Debug\ChuDe5_Nhom11.frmTimKiemThanhVien.resources
